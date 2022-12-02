@@ -1,3 +1,4 @@
+
 // https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_slideshow
 let slideIndex = 1;
 showSlides(slideIndex);
@@ -24,4 +25,5 @@ function showSlides(n) {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
+
 }
