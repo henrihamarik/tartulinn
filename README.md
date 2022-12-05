@@ -1,5 +1,5 @@
 
-# TARTULINN2
+# TARTULINN
 new version of tartulinn <br />
 Tartu linna lehe wiki [Sisukord](https://github.com/henrihamarik/tartulinn2/wiki/Sisukord)
 
@@ -11,8 +11,8 @@ Tiimi kuuluvad Henri Hämarik, Artjom Šiškov, Margus Kuzenko.
 
 ## Milline on tiimisisene tööjaotus?
 Pealeht (Henri)<br />
-Wikpedia (Henri)<br />
-Git setup (Henri)<br />
+Wikpedia (Henri, ...)<br />
+Git setup (Henri, ...)<br />
 Branch setup (Henri)<br />
-Projekti laadimine kodu.ut.ee lehele ()
+Projekti laadimine kodu.ut.ee lehele (...)
 
