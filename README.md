@@ -1,7 +1,7 @@
 
 # TARTULINN
-new version of tartulinn <br />
-Tartu linna lehe wiki [Sisukord](https://github.com/henrihamarik/tartulinn/wiki/0.-Sisukord)
+ <br />
+Tartu linna lehe wiki on siin -> [Sisukord](https://github.com/henrihamarik/tartulinn/wiki/0.-Sisukord)
 
 ## Mida veebileht tutvustab või mis on selle lehe eesmärk?
 Selle lehe eesmärk on tutvustada uutele Tartu kodanikele Tartut.
