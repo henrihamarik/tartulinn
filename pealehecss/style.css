@@ -66,6 +66,7 @@ ul {
     background-size: 100% auto;
     background-position: center top;
     background-attachment: fixed;
+    height: 100%;
   }
   div.container {
     width: 66%;
