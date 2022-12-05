@@ -1,6 +1,6 @@
 
 # TARTULINN
- <br />
+
 Tartu linna lehe wiki [Sisukord](https://github.com/henrihamarik/tartulinn/wiki/0.-Sisukord)
 
 ## Mida veebileht tutvustab või mis on selle lehe eesmärk?
